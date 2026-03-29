@@ -23,7 +23,7 @@ Since 2005, Paterson has served as Music Advisor and Principal Conductor for Man
 Paterson has been a guest lecturer and conductor at the University of Western Ontario, working with the Western University Symphony Orchestra
 
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://github.com/Bibliojo/Ty-Paterson/blob/main/49217373438_985797bdb2_b.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
